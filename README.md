@@ -1,1 +1,104 @@
-# cautious-octo-fiesta
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Receita de Strogonoff de Camarão</title>
+  <style>
+    body {
+      background-color: #ff9988;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      letter-spacing: 2px;
+      text-shadow: 0px 0px 2px black;
+    }
+    p {
+      text-indent: 30px;
+      line-height: 1.5;
+    }
+    table {
+      border: 1px solid orange;
+      background-color: #fff0e0;
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid orange;
+      padding: 8px;
+      text-align: left;
+    }
+    td {
+      color: #d9534f;
+    }
+    .imagem {
+      display: flex;
+      justify-content: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Strogonoff de Camarão</h1>
+
+  <h2>Ingredientes</h2>
+  <ul>
+    <li>500g de camarão cinza ou rosa</li>
+    <li>1 colher de sobremesa rasa de margarina</li>
+    <li>1 cebola picada</li>
+    <li>2 dentes de alho picado</li>
+    <li>1 pitada de orégano</li>
+    <li>1 pitada de sal</li>
+    <li>Pimenta-do-reino a gosto</li>
+    <li>1 xícara de molho de tomate</li>
+    <li>1 colher de sopa de mostarda</li>
+    <li>1 lata de creme de leite sem soro</li>
+  </ul>
+
+  <h2>Modo de Preparo</h2>
+  <ol>
+    <li>Retire a cabeça e as cascas do camarão, limpe e reserve.</li>
+    <li>Em uma panela, derreta a margarina.</li>
+    <li>Refogue a cebola e o alho picados.</li>
+    <li>Adicione os camarões, orégano, sal e pimenta-do-reino. Misture.</li>
+    <li>Adicione o molho de tomate e a mostarda. Mexa bem.</li>
+    <li>Desligue o fogo e misture o creme de leite.</li>
+    <li>Sirva em seguida.</li>
+  </ol>
+
+  <div class="imagem">
+    <img src="17047854-ilustracao-de-gato-fofo-gato-kawaii-chibi-estilo-de-desenhoial-desenho-animado-de-gato-vetor.jpg" alt="Gato fofo" width="300">
+  </div>
+
+  <h2>Acompanhamentos</h2>
+  <table>
+    <tr>
+      <th>Comida</th>
+    </tr>
+    <tr>
+      <td>Strogonoff</td>
+    </tr>
+    <tr>
+      <td>Batata Palha</td>
+    </tr>
+    <tr>
+      <td>Arroz</td>
+    </tr>
+    <tr>
+      <td>Camarão</td>
+    </tr>
+  </table>
+
+  <footer>
+    <p>Fontes de receitas:</p>
+    <ul>
+      <li><a href="https://www.receitasnestle.com.br/receitas/strogonoff-de-carne" target="_blank">Nestlé</a></li>
+      <li><a href="https://www.minhareceita.com.br/receita/strogonoff-de-peito-bovino" target="_blank">Minha Receita</a></li>
+      <li><a href="https://receitadaboa.com.br/receitas/strogonoff-de-frango-sem-creme-de-leite" target="_blank">Receita da Boa</a></li>
+    </ul>
+  </footer>
+
+</body>
+</html>
