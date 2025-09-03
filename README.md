@@ -1,9 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Receita de Strogonoff de Camarão</title>
   <style>
+    a {
+      font-size: 14px;
+      color: blue;
+    }
+    a:hover {
+      color: red;
+    }
+    p:hover {
+      color: green;
+    }
+    table:hover {
+      color: pink;
+    }
     body {
       background-color: #ff9988;
       font-family: Arial, sans-serif;
@@ -36,6 +48,19 @@
       display: flex;
       justify-content: center;
       margin: 20px 0;
+    }
+    .menu {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+    .menu div {
+      background-color: #ffcc99;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    footer {
+      margin-top: 40px;
     }
   </style>
 </head>
@@ -90,6 +115,14 @@
       <td>Camarão</td>
     </tr>
   </table>
+
+  <!-- Menu usando Flexbox -->
+  <div class="menu">
+    <div><a href="#">Início</a></div>
+    <div><a href="#">Receitas</a></div>
+    <div><a href="#">Sobre</a></div>
+    <div><a href="#">Contato</a></div>
+  </div>
 
   <footer>
     <p>Fontes de receitas:</p>
